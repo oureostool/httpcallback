@@ -15,7 +15,7 @@ cleos -u https://api.eosnewyork.io get table ieoscallback ieoscallback httpresul
 ```
 
 # Test Net
-All of this can test in [Jungle Testnet](http://jungle.cryptolions.io) and [CryptoKylin Testnet](https://www.cryptokylin.io/). For developing convenient we list the testnet API endpoints here.
+All of this can test in [Jungle Testnet](http://jungle.cryptolions.io) and [CryptoKylin Testnet](https://www.cryptokylin.io/). For developing convenient we list some testnet API endpoints here.
 
 ### Jungle API endpoints
 * https://jungle.eosio.cr:443
