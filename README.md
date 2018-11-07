@@ -14,14 +14,15 @@ cleos --wallet-url http://127.0.0.1:6666 -u https://api.eosnewyork.io push actio
 cleos -u https://api.eosnewyork.io get table ieoscallback ieoscallback httpresults
 ```
 
-#Test Net
+# Test Net
 All of this can test in [Jungle Testnet](http://jungle.cryptolions.io) and [CryptoKylin Testnet](https://www.cryptokylin.io/). For developing convenient we list the testnet API endpoints here.
-###Jungle API endpoints
+
+### Jungle API endpoints
 * https://jungle.eosio.cr:443
 * http://jungle.cryptolions.io:18888
 * http://dev.cryptolions.io:38888
 
-###CryptoKylin API endpoints
+### CryptoKylin API endpoints
 * https://api.kylin-testnet.eospacex.com
 * http://kylin.fn.eosbixin.com/
 * http://api.kylin.eoseco.com
