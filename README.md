@@ -29,3 +29,6 @@ All of this can test in [Jungle Testnet](http://jungle.cryptolions.io) and [Cryp
 
 # Price
 **0.003 EOS per request**
+
+# Any Question
+* oureostool@gmail.com
